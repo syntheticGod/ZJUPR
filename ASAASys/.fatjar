@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 10 09:46:45 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\gc\\Desktop\\ASAASys.jar
+manifest.mergeall=true
+manifest.mainclass=presentation.ita1.UI
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
